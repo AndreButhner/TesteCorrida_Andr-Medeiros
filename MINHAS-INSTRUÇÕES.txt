@@ -1,0 +1,1 @@
+Todos os dados disponíveis foram salvos num arquivo .txt (info.txt), e no arquivo eu substitui os espaçamentos feitos por "Tab" por espaço comum ' '.
